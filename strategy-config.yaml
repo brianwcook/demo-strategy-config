@@ -1,0 +1,4 @@
+mapping:
+  components:
+    - name: yara-image
+      repository: quay.io/bcook/yara-image
